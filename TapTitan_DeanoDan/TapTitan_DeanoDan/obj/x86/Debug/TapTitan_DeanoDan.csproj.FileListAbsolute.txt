@@ -1,0 +1,16 @@
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\obj\x86\Debug\TapTitan_DeanoDan.csprojResolveAssemblyReference.cache
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\bin\x86\Debug\Content\HeroSprite\bg.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\bin\x86\Debug\TapTitan_DeanoDan.exe
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\bin\x86\Debug\TapTitan_DeanoDan.pdb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\obj\x86\Debug\TapTitan_DeanoDan.exe
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\obj\x86\Debug\TapTitan_DeanoDan.pdb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\bin\x86\Debug\Content\HeroSprite\Standby.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\bin\x86\Debug\Content\HeroSprite\Goku1.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\bin\x86\Debug\Content\HeroSprite\Goku3.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\bin\x86\Debug\Content\HeroSprite\Trunks.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\bin\x86\Debug\Content\Font.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\bin\x86\Debug\Content\HeroSprite\AttackAction.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\bin\x86\Debug\Content\HeroSprite\Frieza1.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\bin\x86\Debug\Content\HeroSprite\Gohan1.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\bin\x86\Debug\Content\HeroSprite\Gohan2.xnb
