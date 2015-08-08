@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>HeroSprite\bg.png</Source>
+      <Name>HeroSprite\bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\bin\x86\Debug\Content\HeroSprite\bg.xnb</Output>
+      <Time>2015-06-27T08:22:18.6151941+08:00</Time>
+    </Item>
+    <Item>
+      <Source>HeroSprite\Standby.png</Source>
+      <Name>HeroSprite\Standby</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\bin\x86\Debug\Content\HeroSprite\Standby.xnb</Output>
+      <Time>2015-07-11T07:30:13.5851879+08:00</Time>
+    </Item>
+    <Item>
+      <Source>HeroSprite\Goku1.png</Source>
+      <Name>HeroSprite\Goku1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\bin\x86\Debug\Content\HeroSprite\Goku1.xnb</Output>
+      <Time>2015-07-11T08:55:38.9075116+08:00</Time>
+    </Item>
+    <Item>
+      <Source>HeroSprite\Goku3.png</Source>
+      <Name>HeroSprite\Goku3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\bin\x86\Debug\Content\HeroSprite\Goku3.xnb</Output>
+      <Time>2015-07-11T08:59:02.9489137+08:00</Time>
+    </Item>
+    <Item>
+      <Source>HeroSprite\Trunks.png</Source>
+      <Name>HeroSprite\Trunks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\bin\x86\Debug\Content\HeroSprite\Trunks.xnb</Output>
+      <Time>2015-07-11T09:08:49.1028577+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2015-08-01T08:52:28.7594137+08:00</Time>
+    </Item>
+    <Item>
+      <Source>HeroSprite\AttackAction.png</Source>
+      <Name>HeroSprite\AttackAction</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\bin\x86\Debug\Content\HeroSprite\AttackAction.xnb</Output>
+      <Time>2015-08-01T08:50:37.0424137+08:00</Time>
+    </Item>
+    <Item>
+      <Source>HeroSprite\Frieza1.png</Source>
+      <Name>HeroSprite\Frieza1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\bin\x86\Debug\Content\HeroSprite\Frieza1.xnb</Output>
+      <Time>2015-08-01T08:40:37.8474137+08:00</Time>
+    </Item>
+    <Item>
+      <Source>HeroSprite\Gohan1.png</Source>
+      <Name>HeroSprite\Gohan1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\bin\x86\Debug\Content\HeroSprite\Gohan1.xnb</Output>
+      <Time>2015-08-01T08:40:49.1394137+08:00</Time>
+    </Item>
+    <Item>
+      <Source>HeroSprite\Gohan2.png</Source>
+      <Name>HeroSprite\Gohan2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\bin\x86\Debug\Content\HeroSprite\Gohan2.xnb</Output>
+      <Time>2015-08-01T08:40:49.1364137+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDanContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDanContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitan_DeanoDan\TapTitan_DeanoDan\TapTitan_DeanoDan\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-23T11:53:57.1558968+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
